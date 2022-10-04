@@ -51,7 +51,7 @@ namespace GeekBrainsBlockFinal
         }
         static void Main(string[] args)
         {
-            
+            PrintArray(FillEmptyArray(my_string_array_test, CreateNewStringArray(CheckArray(my_string_array_test))));
         }
     }
 }
