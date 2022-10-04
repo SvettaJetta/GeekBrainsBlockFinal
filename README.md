@@ -1,6 +1,5 @@
 # GeekBrainsBlockFinal
- 
-# GeekBrainsBlockResult
+
 
 ## Step 1
 
