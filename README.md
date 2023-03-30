@@ -71,5 +71,5 @@ foreach (string x in array)
 }
 ```
 
-![https://github.com/SvettaJetta/GeekBrainsBlockFinal/blob/main/diagram.png](https://github.com/SvettaJetta/GeekBrainsBlockFinal/blob/main/diagram.png)
+![diagram.png](https://github.com/SvettaJetta/GeekBrainsBlockFinal/blob/main/diagram.png)
 
