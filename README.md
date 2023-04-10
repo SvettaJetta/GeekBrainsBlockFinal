@@ -17,7 +17,7 @@
 
 Возвращаем результат `return n`
 
-> ```c#
+> ```python
 > int n = 0;
 > foreach (string x in array)
 > {
